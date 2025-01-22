@@ -2,7 +2,7 @@
 
 
 ## 仓库介绍
-- 本仓库地址为 https://github.com/FutabaMashiro/FJNU-History。
+- 本仓库地址为 https://github.com/FutabaMashiro/FJNU-History
 - 本仓库的资料适用于福建师范大学 **历史学（师范）** 的学生。
 - 仓库资料来源本人修读历史学时老师提供、学长学姐分享与本人整理，如果有意向提供资料的可以与邮箱futabamashiro333@outlook.com联系，感谢您的厚爱！
 - 仓库资料可能有错误，缺失等情况，如有发现恳请与上述邮箱联系修改，感谢您不吝赐教！
