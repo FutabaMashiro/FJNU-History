@@ -1,4 +1,4 @@
-# [福建师范大学历史学专业资料存档](https://github.com/FutabaMashiro/FJNU-History]
+# [福建师范大学历史学专业资料存档](https://github.com/FutabaMashiro/FJNU-History)
 
 ## 仓库介绍
 - 本仓库的资料适用于福建师范大学 **历史学（师范）** 的学生。
